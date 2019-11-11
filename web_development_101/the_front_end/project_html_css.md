@@ -2600,6 +2600,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Lete's solution (Easy)](https://marcodredd.github.io/google-homepage)
 * [Robin Ward's Solution (Easy)](https://github.com/rward-bot/google-homepage)
 * [Rarysson's Solution (Both)](https://github.com/rarysson/google-homepage) - [View in Browser](https://rarysson.github.io/google-homepage/)
+* [LisleCarisbarone's Solution (Easy)](https://github.com/LisleCarisbarone/google_homepage) -[view in Browser](https://lislecarisbarone.github.io/google_homepage-Clone/)
 </details>
 
 ### Additional Resources
