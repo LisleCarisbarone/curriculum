@@ -1303,4 +1303,4 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Chi Bui's Solution](https://github.com/chibui191/rock-paper-scissors)
 - [Lucas' Solution](https://github.com/Lucas-Vergara/Cachipun)
 - [MuratCG's Solution](https://github.com/muratcangumuslu/Rock-Paper-Scissors-Game) - [View in Browser](https://muratcangumuslu.github.io/Rock-Paper-Scissors-Game/)
-</details>
+- [LisleCarisbarone's Solution](https://github.com/LisleCarisbarone/Rock-Paper-Scissors.git)
